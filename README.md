@@ -6,6 +6,12 @@ I'm Seunghyun Jang, Software Engineering Student from South Korea
   - Server-Developer, Backend-Developer, Web Application Developer, Application Developer, Arhcitect
 - 😆 Interested in Micro Service Architecture, Event Driven Architecture, Beautiful Experiences
 - 🏠 Lived in Yangcheon-gu, Seoul (KR)
+---
+## :kr
+- 👨‍🎓 아주대학교 소프트웨어학과 2024년 2월 졸업 예정
+- 👀 현재 구인구직 중입니다. 바로 풀타임 근무 가능합니다
+- 😆 MSA, EDA에 관심이 많으며 경험을 하고 싶습니다
+- 🏠 현재 서울시 양천구에 거주중입니다.
 
 ## 📫 CONTACT INFO
 
